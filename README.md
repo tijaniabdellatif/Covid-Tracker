@@ -69,6 +69,15 @@ __Des commits et des mises à jour journaliéres sur `GitHub`.
 
 __Des entretiens au pifs qui seront programmés chaque fin de tache.
 
+## Planning : 
+
+Vous trouverez le planning des epics sur le lien suivant : 
+
+[Epics plan](https://github.com/tijaniabdellatif/Covid-Tracker/projects/1)
+
+[Epics details](https://github.com/tijaniabdellatif/Covid-Tracker/issues)
+
+
 
 **Restez Toujours Branché !**
 
