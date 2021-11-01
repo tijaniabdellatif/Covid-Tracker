@@ -78,6 +78,21 @@ Vous trouverez le planning des epics sur le lien suivant :
 [Epics details](https://github.com/tijaniabdellatif/Covid-Tracker/issues)
 
 
+## API Implementation : 
+
+- Dans cette partie du projet nous seront amené à integrer une API sous forme de plusieurs chart, pour ça on va se baser sur l'API suivant : 
+
+[Covid API](https://api.covid19api.com/)
+
+- les Differents `endpoint` qu'on va utiliser sont : 
+
+[Covid API Worl summary](https://api.covid19api.com/summary)
+[Covid API Morocco Summary](https://api.covid19api.com/dayone/country/morocco/status/confirmed)
+
+Le but est de visualiser les données sous un format de chart on utilisant la bibliotheque suivante : 
+
+[Chart JS](https://www.chartjs.org/)
+
 
 **Restez Toujours Branché !**
 
