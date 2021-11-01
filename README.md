@@ -93,6 +93,8 @@ Le but est de visualiser les données sous un format de chart on utilisant la bi
 
 [Chart JS](https://www.chartjs.org/)
 
+- le design vous le trouverez dans le dossier suivant : [design API](https://github.com/tijaniabdellatif/Covid-Tracker/tree/main/Design_API)
+
 
 **Restez Toujours Branché !**
 
